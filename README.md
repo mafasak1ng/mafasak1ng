@@ -1,5 +1,3 @@
-# Matei Chiriacescu
-
 **AI automation & hardware** · Bucharest, Romania
 
 I build AI agent systems and the hardware they run on.
