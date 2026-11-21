@@ -23,4 +23,4 @@ n8n · Docker · WSL · Linux · Windows · ComfyUI · MCP
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/chiriacescu-matei-161915253)
+[LinkedIn](https://www.linkedin.com/in/matei-chiriacescu-161915253)
